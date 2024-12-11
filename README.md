@@ -1,1 +1,1 @@
-# ECS7020P_MiniProject
+# MLEnd Deception Storytelling Detection
